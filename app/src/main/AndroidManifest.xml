@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Firstproject">
         <activity
+            android:name=".MoneyActivity"
+            android:exported="false" />
+        <activity
             android:name=".BmiCalculatorActivity"
             android:exported="false" />
         <activity
